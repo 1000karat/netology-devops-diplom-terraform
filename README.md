@@ -146,7 +146,7 @@ ssh-copy-id -i ~/.ssh/github_actions.pub ubuntu@ip_address
 ![Screenshot_08.png](./img/Screenshot_08.png)  
 
 
-#### Итоговая проверка 
+#### 5.4. Итоговая проверка 
 Вносим изменения в `index.html`. Нажимаем `Commit changes...`. Скриншот выполнения:  
 ![Screenshot_09.png](./img/Screenshot_09.png)  
 
